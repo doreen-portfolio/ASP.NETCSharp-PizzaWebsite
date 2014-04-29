@@ -1,0 +1,73 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="Masterpages_MasterPage" EnableTheming="true"%>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="cphHead" runat="server">
+    </asp:ContentPlaceHolder>
+    <link href="../Content/bootstrap.min.css" rel="stylesheet" />
+
+    <style>
+
+        .panel1 {
+            background-color: burlywood;
+            color: white;
+            text-align: center;
+            border: 3px solid white;
+        }
+
+        .panel2 {
+            background-color: brown;
+            color: white;
+            text-align: center;
+            border: 3px solid white;
+        }
+
+        .panel3 {
+            background-color: chocolate;
+            color: white;
+            text-align: center;
+            border: 3px solid white;
+        }
+
+        .panel4 {
+            background-color: yellowgreen;
+            color: white;
+            text-align: center;
+            border: 3px solid white;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div class="container">
+            <header>
+                <asp:LoginStatus ID="LoginStatus1" runat="server" style="align-content: flex-end;"/>
+                <div class="masthead" style="background-image: url(../Images/stripes.jpg);">
+                    <asp:Image ID="Image1" runat="server" ImageUrl="~/Images/logoSmall.png" />
+                        
+                    <asp:Panel ID="authMenu" runat="server">
+                        <ul class="nav nav-justified">
+                            <li class="row panel1"><a href="../Default.aspx">Home</a></li>
+                            <li class="row panel2"><a href="../Pages/OrderPage.aspx">Order</a></li>
+                            <li id="lnkToppings" class="row panel3" runat="server"><a href="../Pages/ToppingPage.aspx">Toppings</a></li>
+                            <li id="lnkReports" class="row panel4" runat="server"><a href="../Pages/ReportPage.aspx">Reports</a></li>
+                        </ul>
+                    </asp:Panel>
+                </div>
+
+            </header>
+            <section>
+                <asp:ContentPlaceHolder ID="cphContent" runat="server">
+                </asp:ContentPlaceHolder>
+            </section>
+            <hr />
+            <footer>
+                <p>&copy; Mary's Pizzeria 2014 | (604) 434-5734 info@marypizzeria.ca | 3700 Willingdon Ave, Burnaby, BC V5G 3H2</p>
+            </footer>
+        </div>
+    </form>
+</body>
+</html>

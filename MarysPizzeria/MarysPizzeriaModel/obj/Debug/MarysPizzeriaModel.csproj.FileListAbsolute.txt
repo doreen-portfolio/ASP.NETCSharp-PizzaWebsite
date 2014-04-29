@@ -1,0 +1,15 @@
+C:\Users\rluong\Desktop\MarysPizzeria\MarysPizzeriaModel\bin\Debug\MarysPizzeriaModel.dll.config
+C:\Users\rluong\Desktop\MarysPizzeria\MarysPizzeriaModel\bin\Debug\MarysPizzeriaModel.dll
+C:\Users\rluong\Desktop\MarysPizzeria\MarysPizzeriaModel\bin\Debug\MarysPizzeriaModel.pdb
+C:\Users\rluong\Desktop\MarysPizzeria\MarysPizzeriaModel\bin\Debug\EntityFramework.dll
+C:\Users\rluong\Desktop\MarysPizzeria\MarysPizzeriaModel\bin\Debug\EntityFramework.xml
+C:\Users\rluong\Desktop\MarysPizzeria\MarysPizzeriaModel\obj\Debug\MarysPizzeriaModel.dll
+C:\Users\rluong\Desktop\MarysPizzeria\MarysPizzeriaModel\obj\Debug\MarysPizzeriaModel.pdb
+C:\Users\Doreen\Desktop\Portfolio\MarysPizzeria_FINAL\MarysPizzeria\MarysPizzeriaModel\bin\Debug\MarysPizzeriaModel.dll.config
+C:\Users\Doreen\Desktop\Portfolio\MarysPizzeria_FINAL\MarysPizzeria\MarysPizzeriaModel\bin\Debug\MarysPizzeriaModel.dll
+C:\Users\Doreen\Desktop\Portfolio\MarysPizzeria_FINAL\MarysPizzeria\MarysPizzeriaModel\bin\Debug\MarysPizzeriaModel.pdb
+C:\Users\Doreen\Desktop\Portfolio\MarysPizzeria_FINAL\MarysPizzeria\MarysPizzeriaModel\bin\Debug\EntityFramework.dll
+C:\Users\Doreen\Desktop\Portfolio\MarysPizzeria_FINAL\MarysPizzeria\MarysPizzeriaModel\bin\Debug\EntityFramework.xml
+C:\Users\Doreen\Desktop\Portfolio\MarysPizzeria_FINAL\MarysPizzeria\MarysPizzeriaModel\obj\Debug\MarysPizzeriaModel.csprojResolveAssemblyReference.cache
+C:\Users\Doreen\Desktop\Portfolio\MarysPizzeria_FINAL\MarysPizzeria\MarysPizzeriaModel\obj\Debug\MarysPizzeriaModel.dll
+C:\Users\Doreen\Desktop\Portfolio\MarysPizzeria_FINAL\MarysPizzeria\MarysPizzeriaModel\obj\Debug\MarysPizzeriaModel.pdb
